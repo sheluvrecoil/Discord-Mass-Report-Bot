@@ -1,6 +1,6 @@
 #######################################################
 #                                                     #
-# Made By Dropout#0004 | Dont Fucking Skid It.        #
+# Made By 6azure#6666 |     dropout   #
 #                                                     #
 #######################################################
 
@@ -37,7 +37,7 @@ print(f"""
 
 PS: Must Have Admin On The Server ;)
 
-{b+Fore.BLUE} > {Fore.RESET}Creator: Dropout#0004
+{b+Fore.BLUE} > {Fore.RESET}Creator: azure & dropout
 
 {b+Fore.BLUE} > {Fore.RESET}Options
 
